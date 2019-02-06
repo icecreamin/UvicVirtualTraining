@@ -1,4 +1,4 @@
 # UvicVirtualTraining
 Learning github together
 
-This is a conflict
+Dom made this comment
