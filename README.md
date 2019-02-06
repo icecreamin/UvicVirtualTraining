@@ -1,4 +1,4 @@
 # UvicVirtualTraining
 Learning github together
 
-Dom made this comment
+Feel free to edit anything aside from this README file.
